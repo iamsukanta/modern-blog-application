@@ -17,7 +17,7 @@ A beautiful, modern blog application built with React, TypeScript, Zustand, and 
 
 ## Technologies
 
-- **React 18**: Modern React with hooks
+- **React**: Modern React with hooks
 - **TypeScript**: Type-safe code
 - **Zustand**: Lightweight state management
 - **TailwindCSS**: Utility-first CSS framework
